@@ -84,3 +84,12 @@ Here are some ideas to get you started:
 
 <img alt="Rajan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=r-goswami&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
+## Ways to contact me
+
+<ul>
+<li><a href="mailto:rajan.goswami85@gmail.com" rel="me">Mail</a>
+<li><a href="https://www.linkedin.com/in/rajangoswami/" rel="me">Linkedin</a>
+<li>Call</li>
+</li>
+</ul>
+
