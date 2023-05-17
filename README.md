@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -------------------
 &emsp;
 
-- 🔭 I’m currently working with [Zblocks](https://zblocks.io/) for Enterprise Blockchain Platform development.
+<!-- - 🔭 I’m currently working with [Zblocks](https://zblocks.io/) for Enterprise Blockchain Platform development.) -->
 
 &emsp;
 
