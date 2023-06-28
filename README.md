@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 <h3 align="left">Hi 👋, I'm a Software Craftsman based in Sweden. I have extensive and diverse experience in Mobile domain, Creating SDKs, Cloud Platforms, Backend Services, and sometimes Frontend...</h3>
 &emsp;
 
+- 🔭 I’m currently working on creating caching SaaS, All in one load-balancer library and few other stuff.
+- 🍁 I'm always eager and open to learn
+- 🌴 I'm a firm believer of realism, not virtualism
+- 🙅‍♂️ Don't contact me to do this - https://en.wikipedia.org/wiki/Jugaad
+
+   
 -------------------
 &emsp;
 
